@@ -13,7 +13,7 @@
 - GitHub Profile Customization
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-twitter) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-twitter) | [Portfolio](https://github.com/Maxamed459/My-Portfolio)
 
 ## 📊 GitHub Stats
 ![Atoosh22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atoosh22&show_icons=true&theme=radical)
