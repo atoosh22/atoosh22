@@ -1,4 +1,4 @@
-# 🌟 I’M ABDI NASIR MOHAMED NUR
+# 🌟  I’M ABDI NASIR MOHAMED NUR
 #### 💻 Full-Stack (MERN) Developer | Web Designer | UI/UX Designer
 
 - 🚀 Passionate about building beautiful, fast, and scalable web applications.
