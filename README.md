@@ -22,6 +22,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atoosh22&layout=compact&theme=radical)
 
 ## 🎯 Skills
-- *Frontend:* Flutter, React
+- *Frontend:* Html ,Css, javascript, Boostrap, TailwinCss, React
 - *Backend:* Node.js, Express
 - *Database:* MongoDB, Firebase
