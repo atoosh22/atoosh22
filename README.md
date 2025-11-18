@@ -17,52 +17,32 @@
 ## 🧰 Tech Stack
 ### 🚀 Frontend Development
 
-HTML5, CSS3
+HTML5, CSS3, Bootstrap, TailwindCSS
 
-Bootstrap
-
-TailwindCSS
-
-JavaScript (ES6+)
-
-React.js (Hooks, Routers, States)
+JavaScript (ES6+), React.js (Hooks, Routers, States)
 
 
 ### 🛠 Backend Development
 
-Node.js
-
-Express.js
-
-REST API Development
+Node.js, Express.js, REST API Development
 
 ### 🗄 Database
 
-MongoDB
-
-Firebase (Auth, DB, Hosting)
+MongoDB, Firebase (Auth, DB, Hosting)
 
 🎨 Design & UI/UX
 
 Figma (Wireframes / Components / Prototypes)
 
-Photoshop
-
-Adobe Illustrator
-
-Affinity Designer
-
-Creative Web Dashboard Design
+Photoshop, Adobe Illustrator, Affinity Designer
 
 ### 🧩 Other Skills
 
 WordPress (Design + Customization)
 
-Git & GitHub
+Git & GitHub, Responsive & Modern UI
 
-Responsive & Modern UI
 
-📊 GitHub Stats
 
 ### 📫 Connect With Me
 
