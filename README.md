@@ -64,21 +64,12 @@ Responsive & Modern UI
 
 📊 GitHub Stats
 
-🏆 Top Languages
-
-🎯 Highlighted Skills Dashboard
-Category	Skills
-Frontend	HTML, CSS, JS, Bootstrap, Tailwind, React
-Backend	Node.js, Express
-Database	MongoDB, Firebase
-Design	Figma, Photoshop, Illustrator, Affinity
-Other	WordPress, Git/GitHub, UI/UX
-📫 Connect With Me
+### 📫 Connect With Me
 
 🔗 LinkedIn: ()
 🐦 Twitter/X: (ku dar link-gaaga)
 🌐 Portfolio: (https://github.com/atoosh22/E-leaning-website)
 
-🚀 Thanks for Visiting My Profile!
+### 🚀 Thanks for Visiting My Profile!
 
-✨ Let's build something amazing together.
+
