@@ -1,27 +1,84 @@
-## Hi I'M ABDI NASIR MOHAMED NUR
+🌟 Hi, I'm Abdi Nasir Mohamed Nur
+- 💻 Full-Stack (MERN) Developer | Web Designer | UI/UX Designer
 
-👨‍💻 Full Stack Developer
+- 🚀 Passionate about building beautiful, fast, and scalable web applications.
+- 🎨 Expert in modern UI/UX, dashboard design, and pixel-perfect web interfaces.
+- 📱 Currently exploring Flutter, animations, and advanced state management.
 
-## 🛠 About Me
-- Full Stack Developer & Mobile App Enthusiast
-- Learning Flutter, React, and AI development
-- Passionate about building interactive dashboards and projects
+🔥 About Me
 
-## 🌱 Currently Learning
-- Advanced Flutter UI
-- State Management (Bloc, Riverpod)
-- GitHub Profile Customization
+- 👨‍💻 Full-Stack Web Developer (MERN)
 
-## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-twitter) | [Portfolio](https://github.com/Maxamed459/My-Portfolio)
+- 🎨 UI/UX Designer — Figma, Photoshop, Illustrator, Affinity
+- 🌐 Web Designer & WordPress Developer
+- 📱 Learning Flutter & Mobile UI
+- 🤖 Learning AI integration into modern apps
 
-## 📊 GitHub Stats
-![Atoosh22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atoosh22&show_icons=true&theme=radical)
+🧰 Tech Stack
+- 🚀 Frontend Development
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atoosh22&layout=compact&theme=radical)
+HTML5, CSS3
 
-## 🎯 Skills
-- *Frontend:* Html ,Css, javascript, Boostrap, TailwinCss, React
-- *Backend:* Node.js, Express
-- *Database:* MongoDB, Firebase
+Bootstrap
+
+TailwindCSS
+
+JavaScript (ES6+)
+
+React.js (Hooks, Routers, States)
+
+
+🛠 Backend Development
+
+Node.js
+
+Express.js
+
+REST API Development
+
+🗄 Database
+
+MongoDB
+
+Firebase (Auth, DB, Hosting)
+
+🎨 Design & UI/UX
+
+Figma (Wireframes / Components / Prototypes)
+
+Photoshop
+
+Adobe Illustrator
+
+Affinity Designer
+
+Creative Web Dashboard Design
+
+🧩 Other Skills
+
+WordPress (Design + Customization)
+
+Git & GitHub
+
+Responsive & Modern UI
+
+📊 GitHub Stats
+
+🏆 Top Languages
+
+🎯 Highlighted Skills Dashboard
+Category	Skills
+Frontend	HTML, CSS, JS, Bootstrap, Tailwind, React
+Backend	Node.js, Express
+Database	MongoDB, Firebase
+Design	Figma, Photoshop, Illustrator, Affinity
+Other	WordPress, Git/GitHub, UI/UX
+📫 Connect With Me
+
+🔗 LinkedIn: (ku dar link-gaaga)
+🐦 Twitter/X: (ku dar link-gaaga)
+🌐 Portfolio: (ku dar website-kaaga)
+
+🚀 Thanks for Visiting My Profile!
+
+✨ Let's build something amazing together.
