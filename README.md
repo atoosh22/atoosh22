@@ -46,8 +46,7 @@ Git & GitHub, Responsive & Modern UI
 
 ### 📫 Connect With Me
 
-🔗 LinkedIn: ()
-🐦 Twitter/X: (ku dar link-gaaga)
+
 🌐 Portfolio: (https://github.com/atoosh22/E-leaning-website)
 
 ### 🚀 Thanks for Visiting My Profile!
