@@ -1,10 +1,10 @@
-# 🌟  I’M ABDI NASIR MOHAMED NUR
+![Abdi Nasir Mohamed Nur](https://raw.githubusercontent.com/atoosh22/E-leaning-website/main/img/Mypicture.jpg)
+
 #### 💻 Full-Stack (MERN) Developer | Web Designer | UI/UX Designer
 
 - 🚀 Passionate about building beautiful, fast, and scalable web applications.
 - 🎨 Expert in modern UI/UX, dashboard design, and pixel-perfect web interfaces.
 - 📱 Currently exploring Flutter, animations, and advanced state management.
-
 
 ## 🔥 About Me
 
@@ -16,39 +16,24 @@
 
 ## 🧰 Tech Stack
 ### 🚀 Frontend Development
-
 HTML5, CSS3, Bootstrap, TailwindCSS
-
 JavaScript (ES6+), React.js (Hooks, Routers, States)
 
-
 ### 🛠 Backend Development
-
 Node.js, Express.js, REST API Development
 
 ### 🗄 Database
-
 MongoDB, Firebase (Auth, DB, Hosting)
 
 🎨 Design & UI/UX
-
 Figma (Wireframes / Components / Prototypes)
-
 Photoshop, Adobe Illustrator, Affinity Designer
 
 ### 🧩 Other Skills
-
 WordPress (Design + Customization)
-
 Git & GitHub, Responsive & Modern UI
 
-
-
 ### 📫 Connect With Me
-
-
-🌐 Portfolio: (https://github.com/atoosh22/E-leaning-website)
+🌐 Portfolio: [E-learning Website](https://github.com/atoosh22/E-leaning-website)
 
 ### 🚀 Thanks for Visiting My Profile!
-
-
